@@ -1,7 +1,7 @@
 # Product Requirements Document (PRD)
 ## Charlie Agentic Chatbot Integration into PSI Application
 
-**Document Version:** 1.0  
+**Document Version:** 1.1  
 **Date:** October 20, 2025  
 **Author:** Sean Dorsett  
 **Status:** Draft  
