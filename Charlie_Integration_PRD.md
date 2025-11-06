@@ -3,7 +3,7 @@
 
 **Document Version:** 1.0  
 **Date:** October 20, 2025  
-**Author:** Sean DOrsett  
+**Author:** Sean Dorsett  
 **Status:** Draft  
 
 ---
@@ -28,7 +28,7 @@ Enhance the PSI (Personal Strengths Inventory) application user experience by pr
 
 ### 3.1 User Persona
 **Description:** Standard application users who have taken surveys  
-**Access Level:** Restricted to personal survey data and reports only  
+**Access Level:** Restricted to personal survey data and selected reports only. The reports visible to users are controlled via PSI Admin.  
 
 **Primary Use Cases:**
 - Query personal survey results and interpretations
@@ -38,9 +38,9 @@ Enhance the PSI (Personal Strengths Inventory) application user experience by pr
 - Compare results across different reports generated from their survey data
 
 **Example Interactions:**
-- "Charlie, what were my strongest areas in my survey?"
-- "Can you explain what my communication score means?"
-- "How do my leadership results compare across the different reports?"
+- "Charlie, what were my strongest areas in my PSI Career Coaching Report?"
+- "Can you explain Behavioral and Performance Strengths score, and if there are areas which I can improve on?"
+- "In my Relationships Reports, my Action vs. Reflection score is moderate. Is this good or bad?"
 
 ### 3.2 Administrator Persona
 **Description:** Administrative users with oversight responsibilities  
